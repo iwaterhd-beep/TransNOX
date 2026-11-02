@@ -1,0 +1,15 @@
+export const IDS = {
+  vehDaily: "veh_daily",
+  vehSprinter: "veh_sprinter",
+  vehTransit: "veh_transit",
+  drvManuel: "drv_manuel",
+  drvRocio: "drv_rocio",
+  drvKarim: "drv_karim",
+  fuelCepsa: "fuel_cepsa",
+  fuelRepsol: "fuel_repsol",
+  fuelPlenoil: "fuel_plenoil",
+  cliLefties: "cli_lefties",
+  cliTw: "cli_twlogistic",
+  cliMercadona: "cli_mercadona",
+  cliAlmonte: "cli_almonte",
+} as const;

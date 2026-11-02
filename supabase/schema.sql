@@ -1,0 +1,3 @@
+-- Applied on project TransNOX (eu-west-1).
+-- Do not re-run blindly; the live schema is already migrated.
+-- Auth: each signup creates organization + membership + company via private.handle_new_user().
